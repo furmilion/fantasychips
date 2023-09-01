@@ -2,7 +2,7 @@
 HI THIS IS WHERE I RAMBLE ABOUT MY CUSTOM CHIPS ETC.
 
 # systems
- - Famicom CD
+ - Famicom CD (Ricoh 2D75)
    - An add-on to the NES.
    - 2 Wavetable channels similar to Famicom Dist System, except with wavetable synthesizer.
      - Available Effects:
