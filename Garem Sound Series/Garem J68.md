@@ -8,6 +8,9 @@ It appeared as silently as it went away.
 No certain release year is known, but it is assumed that it was somewhere in early 1990s through late 2010s.
 This is both a console and an audio workstation.
 
+![Garem J68.png](Garem%20J68.png)
+![Garem J68 Font.png](Garem%20J68%20Font.png)
+
 ## CPU
 Most likely is a custom-made one, or a modified Z80 to be a 16-bit CPU.
 Clock: 16.363MHz
@@ -43,3 +46,16 @@ Controls: APU, Video CPU
 ## Video
 * 320i60
 * Clock: 16.384MHz
+* Up to 1024 sprites on-screen at the same time.
+* Each scanline can have up to 64 sprites assigned to it.
+* 3 sprite layers, 512 colors per-layer.
+* 2 background and 2 foreground layers.
+* 256 colors for each of background-foreground groups.
+* Sprite and foreground layers are swappable in any order.
+
+## MIDI
+Sound Set is compatible with GM Level 1,
+but is not directly compatible with GM Level 1
+due to only having 20 voices, while GM Level 1
+requires a device to have 24 voices to be comparible
+with GM Level 1.
