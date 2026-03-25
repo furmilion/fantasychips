@@ -2,6 +2,7 @@
 
 Garem SS-16 is a professional sound synthesizer.
 Available in 38, 68, 88 and full 128 key layout.
+Was made in early 2000s.
 
 Garem SS-16 is a combo of FM and PCM synthesizers in one shell,
 developed by Garem and Yamaha.
@@ -23,6 +24,9 @@ Garem SS-16 also has the ability to load additional PCM sounds, via either
 Expansion cards or, again, USB, using the corresonding SS-16 Sound Editor,
 a desktop application developed by Garem to control various aspects of the
 synthesizer.
+
+There is also Garem Syntex32, which is really just 2 SS-16s glued in a single shell.
+This was made later in 2010s as hardware got cheaper and customers could afford paying for this synth.
 
 ## Compatibility
 - Garem SS-16 is compatible with any sound card or synthesizer module
