@@ -19,12 +19,12 @@ instruments instead of sample-based ones.
 ## FEATURES
 ### SG-122
 * Hardware Filters
-* Large amount of sample RAM is built-in
+* Large amount of sample RAM is built-in (16MiB)
 * 4 Drum Kits:
-  - Standard / Power
-  - Jazz / Brush
-  - TR-808 / TR-909
-  - Orchestra / Ethnic (Extra)
+  - Standard + Power
+  - Jazz + Brush
+  - TR-808 + TR-909
+  - Orchestra + Ethnic (Extra)
 * Partial compatibility to MIDI protocol 
 * Ability to simultaneously use several sound cards to enhance sound
 * Yamaha YMF289B (OPL3-L) and Yamaha YMZ280B (PCMD8) sound expansions can be used
@@ -36,3 +36,10 @@ instruments instead of sample-based ones.
 * Partial compatibility to MIDI protocol
 * Wavetable sounds instead of samples for melodic instruments.
 * Streaming for long sounds
+
+As SG-122R is a cut version of SG-122, it also lacks the additional 
+mount for the expansion chips, so it can not be expanded. Theoretically 
+it can be, since the drivers are just a little bit modified to fit SG-122R's 
+limitations and the sound expansion driver part has not been touched.
+
+Due to the same reason, it cannot be "daisy-chained" (the way cards actually work is plugging them in parallel).

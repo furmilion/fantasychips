@@ -8,7 +8,10 @@ It appeared as silently as it went away.
 No certain release year is known, but it is assumed that it was somewhere in early 1990s through late 2010s.
 This is both a console and an audio workstation.
 
-![Garem J68.png](Garem%20J68.png)
+![Garem J68 Front and Back view.png](Garem%20J68%20Front%20and%20Back%20view.png)
+
+LCD Display font:
+
 ![Garem J68 Font.png](Garem%20J68%20Font.png)
 
 ## CPU
@@ -59,3 +62,9 @@ but is not directly compatible with GM Level 1
 due to only having 20 voices, while GM Level 1
 requires a device to have 24 voices to be comparible
 with GM Level 1.
+
+---
+
+The original image containing all the information:
+
+![Garem J68.png](Garem%20J68.png)

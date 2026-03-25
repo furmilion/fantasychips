@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<font>
+<format>4.35</format>
+<program version="6.14.11" os="windows" />
+
+<postscript_name>Garem Series LCD Font</postscript_name>
+<name>Garem Series LCD Font</name>
+<subfamily>Regular</subfamily>
+<bold>false</bold>
+<italic>false</italic>
+<mono>true</mono>
+<full_name>Garem Series LCD Font</full_name>
+<unique_identifier>Garem Series LCD Font</unique_identifier>
+<version>Version 1.1</version>
+<description>LCD font of various Garem products that include one.</description>
+<copyright>SIL Open Font License (OFL)</copyright>
+<license>SIL Open Font License (OFL)</license>
+<license_url>http://scripts.sil.org/OFL</license_url>
+<weight>400</weight>
+<italic_angle>0</italic_angle>
+<units_per_em>1024</units_per_em>
+<trademark></trademark>
+<manufacturer></manufacturer>
+<designer>Furmilion</designer>
+<vendor_url></vendor_url>
+<vendor_id>Bird</vendor_id>
+<designer_url></designer_url>
+<underline_position>-10</underline_position>
+<underline_thickness>3.5</underline_thickness>
+<open_engraving>false</open_engraving>
+<same_way_back_engraving>false</same_way_back_engraving>
+<external_backgrunds>false</external_backgrunds>
+<allow_all_editing>true</allow_all_editing>
+<allow_embedding>true</allow_embedding>
+
+<horizontal>
+	<top_limit>84</top_limit>
+	<top_position>112</top_position>
+	<x-height>56</x-height>
+	<base_line>0</base_line>
+	<bottom_position>-20</bottom_position>
+	<bottom_limit>-21</bottom_limit>
+	<line_gap>10</line_gap>
+</horizontal>
+
+<grid width="1"/>
+<grid width="2"/>
+<grid width="4"/>
+<grid width="7"/>
+
+<background scale="1" />
+
+<base_filename>Garem Series LCD Font</base_filename>
+<base_filename_mac>Garem Series LCD Font (Mac)</base_filename_mac>
+<export_ttf_font>true</export_ttf_font>
+<export_otf_font>true</export_otf_font>
+<export_eot_font>false</export_eot_font>
+<export_svg_font>false</export_svg_font>
+<export_colr_table>true</export_colr_table>
+<export_svg_table>true</export_svg_table>
+<optimize_otf_for_size>false</optimize_otf_for_size>
+<optimize_otf_for_details>true</optimize_otf_for_details>
+
+<default_foreground_color></default_foreground_color>
+
+<svg_units_per_em>100</svg_units_per_em>
+<svg_decimals>5</svg_decimals>
+<ligature_tag>clig</ligature_tag>
+<disable_gvar>false</disable_gvar>
+<old_contextual_before_regular_ligature>false</old_contextual_before_regular_ligature>
+
+
+<collection unicode="U+20" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+21" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="S -20,0 L -20,0 L -20,0 L -20,0 L -20,0" />
+			<path data="S 14,0 L 14,0 L 14,0 L 14,0 L 14,0" />
+			<path data="S -7,14 L 7,14 L 7,0 L -7,0 L -7,14" />
+			<path data="S -7,28 L 7,28 L 7,91 L -7,91 L -7,28" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+22" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="S -21,56 L -14,56 L -14,42 L -21,42 L -21,56" />
+			<path data="S -7,56 L 0,56 L 0,42 L -7,42 L -7,56" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+23" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -14,49 K -7,49 K -7,42 K 7,42 K 7,49 K 14,49 K 14,42 K 21,42 K 21,35 K 14,35 K 14,21 K 21,21 K 21,14 K 14,14 K 14,7 K 7,7 K 7,14 K -7,14 K -7,7 K -14,7 K -14,14 K -21,14 K -21,21 K -14,21 K -14,35 K -21,35 K -21,42 K -14,42 K -14,49" />
+			<path data="R 7,21 K 7,35 K -7,35 K -7,21 K 7,21" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+24" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,77 K 28,77 K 28,70 K -28,70 K -28,77" />
+			<path data="R -28,70 K -14,70 K -14,56 K -28,56 K -28,70" />
+			<path data="R -28,56 K 28,56 K 28,42 K -28,42 K -28,56" />
+			<path data="R 14,56 K 28,56 K 28,7 K 14,7 K 14,56" />
+			<path data="R 14,14 K -28,14 K -28,7 K 14,7 K 14,14" />
+			<path data="R -14,0 K -7,0 K -7,7 K -14,7 K -14,0" />
+			<path data="R 7,7 K 14,7 K 14,0 K 7,0 K 7,7" />
+			<path data="R -14,42 K -7,42 K -7,14 K -14,14 K -14,42" />
+			<path data="R 7,14 K 14,14 K 14,42 K 7,42 K 7,14" />
+			<path data="R -14,70 K -7,70 K -7,56 K -14,56 K -14,70" />
+			<path data="R 7,56 K 14,56 K 14,70 K 7,70 K 7,56" />
+			<path data="R -14,84 K -7,84 K -7,77 K -14,77 K -14,84" />
+			<path data="R 7,84 K 14,84 K 14,77 K 7,77 K 7,84" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+25" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -21,49 K -7,49 K -7,35 K -21,35 K -21,49" />
+			<path data="R 7,21 K 21,21 K 21,7 K 7,7 K 7,21" />
+			<path data="R -21,0 K -7,0 K -7,7 K -21,7 K -21,0" />
+			<path data="R -14,7 K 0,7 K 0,21 K -14,21 K -14,7" />
+			<path data="R -7,21 K 7,21 K 7,35 K -7,35 K -7,21" />
+			<path data="R 0,35 K 14,35 K 14,49 K 0,49 K 0,35" />
+			<path data="R 7,56 K 21,56 K 21,49 K 7,49 K 7,56" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+26" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+27" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -21,56 K -14,56 K -14,42 K -21,42 K -21,56" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+28" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,14 K -14,14 K -14,42 K -28,42 K -28,14" />
+			<path data="R -21,49 K -7,49 K -7,42 K -21,42 K -21,49" />
+			<path data="R -14,56 K 0,56 K 0,49 K -14,49 K -14,56" />
+			<path data="R -21,14 K -7,14 K -7,7 K -21,7 K -21,14" />
+			<path data="R -14,7 K 0,7 K 0,0 K -14,0 K -14,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+29" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 14,14 K 28,14 K 28,42 K 14,42 K 14,14" />
+			<path data="R 7,49 K 21,49 K 21,42 K 7,42 K 7,49" />
+			<path data="R 0,56 K 14,56 K 14,49 K 0,49 K 0,56" />
+			<path data="R 7,14 K 21,14 K 21,7 K 7,7 K 7,14" />
+			<path data="R 0,7 K 14,7 K 14,0 K 0,0 K 0,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2a" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -7,35 K 7,35 K 7,21 K -7,21 K -7,35" />
+			<path data="R -14,42 K -7,42 K -7,35 K -14,35 K -14,42" />
+			<path data="R 7,42 K 14,42 K 14,35 K 7,35 K 7,42" />
+			<path data="R 7,21 K 14,21 K 14,14 K 7,14 K 7,21" />
+			<path data="R -14,21 K -7,21 K -7,14 K -14,14 K -14,21" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2b" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -21,35 K 21,35 K 21,21 K -21,21 K -21,35" />
+			<path data="R -7,49 K 7,49 K 7,35 K -7,35 K -7,49" />
+			<path data="R -7,21 K 7,21 K 7,7 K -7,7 K -7,21" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2c" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -14,7 K 0,7 K 0,0 K -14,0 K -14,7" />
+			<path data="R -7,7 K 7,7 K 7,21 K -7,21 K -7,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2d" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -21,35 K 21,35 K 21,21 K -21,21 K -21,35" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2e" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -7,14 K 7,14 K 7,0 K -7,0 K -7,14" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name=".notdef" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-20" right="33" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="B -15,10 M 15,10 M 15,102 M -15,102 M -15,10" />
+			<path data="B -20,107 M 20,107 M 20,5 M -20,5 M -20,107" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2f" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -21,0 K -7,0 K -7,7 K -21,7 K -21,0" />
+			<path data="R 7,56 K 21,56 K 21,49 K 7,49 K 7,56" />
+			<path data="R 0,49 K 14,49 K 14,35 K 0,35 K 0,49" />
+			<path data="R -14,7 K 0,7 K 0,21 K -14,21 K -14,7" />
+			<path data="R -7,35 K 7,35 K 7,21 K -7,21 K -7,35" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+30" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,0 K 28,0 K 28,7 K -28,7 K -28,0" />
+			<path data="R -28,56 K 28,56 K 28,49 K -28,49 K -28,56" />
+			<path data="R 28,49 K 14,49 K 14,7 K 28,7 K 28,49" />
+			<path data="R -28,7 K -14,7 K -14,49 K -28,49 K -28,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+31" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 28,56 K 14,56 K 14,0 K 28,0 K 28,56" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+32" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K 28,56 K 28,49 K -28,49 K -28,56" />
+			<path data="R 14,49 K 28,49 K 28,35 K 14,35 K 14,49" />
+			<path data="R 28,35 K -28,35 K -28,21 K 28,21 K 28,35" />
+			<path data="R -28,21 K -14,21 K -14,7 K -28,7 K -28,21" />
+			<path data="R -28,7 K 28,7 K 28,0 K -28,0 K -28,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+33" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K 28,56 K 28,49 K -28,49 K -28,56" />
+			<path data="R -28,0 K 28,0 K 28,7 K -28,7 K -28,0" />
+			<path data="R 14,7 K 28,7 K 28,49 K 14,49 K 14,7" />
+			<path data="R -7,35 K 14,35 K 14,21 K -7,21 K -7,35" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+34" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K -14,56 K -14,35 K -28,35 K -28,56" />
+			<path data="R -28,35 K 14,35 K 14,21 K -28,21 K -28,35" />
+			<path data="R 14,56 K 28,56 K 28,0 K 14,0 K 14,56" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+35" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K 28,56 K 28,49 K -28,49 K -28,56" />
+			<path data="R -28,49 K -14,49 K -14,35 K -28,35 K -28,49" />
+			<path data="R -28,35 K 28,35 K 28,21 K -28,21 K -28,35" />
+			<path data="R 28,21 K 14,21 K 14,7 K 28,7 K 28,21" />
+			<path data="R 28,7 K -28,7 K -28,0 K 28,0 K 28,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+36" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K 28,56 K 28,49 K -28,49 K -28,56" />
+			<path data="R -28,49 K -14,49 K -14,0 K -28,0 K -28,49" />
+			<path data="R -14,7 K 28,7 K 28,0 K -14,0 K -14,7" />
+			<path data="R 14,7 K 28,7 K 28,21 K 14,21 K 14,7" />
+			<path data="R -14,28 K 28,28 K 28,21 K -14,21 K -14,28" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+37" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K 28,56 K 28,49 K -28,49 K -28,56" />
+			<path data="R -7,0 K 7,0 K 7,21 K -7,21 K -7,0" />
+			<path data="R -7,28 K 14,28 K 14,21 K -7,21 K -7,28" />
+			<path data="R 0,35 K 21,35 K 21,28 K 0,28 K 0,35" />
+			<path data="R 7,42 K 28,42 K 28,35 K 7,35 K 7,42" />
+			<path data="R 14,49 K 28,49 K 28,42 K 14,42 K 14,49" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+38" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K 28,56 K 28,49 K -28,49 K -28,56" />
+			<path data="R -28,7 K 28,7 K 28,0 K -28,0 K -28,7" />
+			<path data="R -28,49 K -14,49 K -14,7 K -28,7 K -28,49" />
+			<path data="R -14,35 K 14,35 K 14,21 K -14,21 K -14,35" />
+			<path data="R 14,49 K 28,49 K 28,7 K 14,7 K 14,49" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+39" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,7 K 28,7 K 28,0 K -28,0 K -28,7" />
+			<path data="R -28,56 K -14,56 K -14,35 K -28,35 K -28,56" />
+			<path data="R -14,56 K 28,56 K 28,49 K -14,49 K -14,56" />
+			<path data="R 28,49 K 14,49 K 14,7 K 28,7 K 28,49" />
+			<path data="R -28,28 K 14,28 K 14,35 K -28,35 K -28,28" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+3a" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -7,56 K 7,56 K 7,42 K -7,42 K -7,56" />
+			<path data="R -7,14 K 7,14 K 7,0 K -7,0 K -7,14" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+3b" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -7,56 K 7,56 K 7,42 K -7,42 K -7,56" />
+			<path data="R -7,21 K 7,21 K 7,7 K -7,7 K -7,21" />
+			<path data="R -14,7 K 0,7 K 0,0 K -14,0 K -14,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+3c" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -14,35 K 0,35 K 0,28 K -14,28 K -14,35" />
+			<path data="R -7,42 K 14,42 K 14,35 K -7,35 K -7,42" />
+			<path data="R -14,21 K 0,21 K 0,14 K -14,14 K -14,21" />
+			<path data="R -7,14 K 14,14 K 14,7 K -7,7 K -7,14" />
+			<path data="R -21,28 K -7,28 K -7,21 K -21,21 K -21,28" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+3d" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -21,49 K 21,49 K 21,35 K -21,35 K -21,49" />
+			<path data="R -21,21 K 21,21 K 21,7 K -21,7 K -21,21" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+3e" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -14,42 K 7,42 K 7,35 K -14,35 K -14,42" />
+			<path data="R 0,35 K 14,35 K 14,28 K 0,28 K 0,35" />
+			<path data="R 0,21 K 14,21 K 14,14 K 0,14 K 0,21" />
+			<path data="R -14,14 K 7,14 K 7,7 K -14,7 K -14,14" />
+			<path data="R 7,28 K 21,28 K 21,21 K 7,21 K 7,28" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+3f" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -7,14 K 7,14 K 7,0 K -7,0 K -7,14" />
+			<path data="R -7,21 K 7,21 K 7,35 K -7,35 K -7,21" />
+			<path data="R -7,42 K 14,42 K 14,35 K -7,35 K -7,42" />
+			<path data="R 0,49 K 21,49 K 21,42 K 0,42 K 0,49" />
+			<path data="R 7,56 K 28,56 K 28,49 K 7,49 K 7,56" />
+			<path data="R 14,56 K 28,56 K 28,77 K 14,77 K 14,56" />
+			<path data="R -28,77 K -14,77 K -14,63 K -28,63 K -28,77" />
+			<path data="R -21,84 K 21,84 K 21,77 K -21,77 K -21,84" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+40" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -7,35 K 7,35 K 7,21 K -7,21 K -7,35" />
+			<path data="R 7,28 K 21,28 K 21,21 K 7,21 K 7,28" />
+			<path data="R 14,49 K 21,49 K 21,28 K 14,28 K 14,49" />
+			<path data="R 14,49 K -21,49 K -21,42 K 14,42 K 14,49" />
+			<path data="R -21,42 K -14,42 K -14,14 K -21,14 K -21,42" />
+			<path data="R -21,14 K 21,14 K 21,7 K -21,7 K -21,14" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+41" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,0 K -14,0 K -14,63 K -28,63 K -28,0" />
+			<path data="R 14,63 K 28,63 K 28,0 K 14,0 K 14,63" />
+			<path data="R -14,21 K 14,21 K 14,35 K -14,35 K -14,21" />
+			<path data="R -28,70 K -7,70 K -7,63 K -28,63 K -28,70" />
+			<path data="R 7,70 K 28,70 K 28,63 K 7,63 K 7,70" />
+			<path data="R -21,77 K 21,77 K 21,70 K -21,70 K -21,77" />
+			<path data="R -14,84 K 14,84 K 14,77 K -14,77 K -14,84" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+42" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,7 K 21,7 K 21,0 K -28,0 K -28,7" />
+			<path data="R 14,7 K 28,7 K 28,49 K 14,49 K 14,7" />
+			<path data="R -14,63 K 21,63 K 21,49 K -14,49 K -14,63" />
+			<path data="R 21,56 K 28,56 K 28,77 K 21,77 K 21,56" />
+			<path data="R 14,63 K 21,63 K 21,84 K 14,84 K 14,63" />
+			<path data="R -28,77 K -14,77 K -14,7 K -28,7 K -28,77" />
+			<path data="R -28,84 K 14,84 K 14,77 K -28,77 K -28,84" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+43" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -21,7 K 21,7 K 21,0 K -21,0 K -21,7" />
+			<path data="R 14,7 K 28,7 K 28,21 K 14,21 K 14,7" />
+			<path data="R 14,63 K 28,63 K 28,77 K 14,77 K 14,63" />
+			<path data="R 21,84 K -21,84 K -21,77 K 21,77 K 21,84" />
+			<path data="R -14,7 K -28,7 K -28,77 K -14,77 K -14,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+44" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,0 K -14,0 K -14,84 K -28,84 K -28,0" />
+			<path data="R 14,77 K 28,77 K 28,7 K 14,7 K 14,77" />
+			<path data="R 21,7 K -14,7 K -14,0 K 21,0 K 21,7" />
+			<path data="R -14,84 K 21,84 K 21,77 K -14,77 K -14,84" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+45" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -14,84 K 28,84 K 28,77 K -14,77 K -14,84" />
+			<path data="R -28,84 K -14,84 K -14,0 K -28,0 K -28,84" />
+			<path data="R -14,0 K 28,0 K 28,7 K -14,7 K -14,0" />
+			<path data="R -14,63 K 7,63 K 7,49 K -14,49 K -14,63" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+46" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,84 K 28,84 K 28,77 K -28,77 K -28,84" />
+			<path data="R -28,77 K -14,77 K -14,0 K -28,0 K -28,77" />
+			<path data="R -14,63 K 7,63 K 7,49 K -14,49 K -14,63" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+47" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -21,84 K 21,84 K 21,77 K -21,77 K -21,84" />
+			<path data="R 14,77 K 28,77 K 28,63 K 14,63 K 14,77" />
+			<path data="R -28,7 K -14,7 K -14,77 K -28,77 K -28,7" />
+			<path data="R -21,7 K 28,7 K 28,0 K -21,0 K -21,7" />
+			<path data="R 14,7 K 28,7 K 28,28 K 14,28 K 14,7" />
+			<path data="R 28,35 K -7,35 K -7,28 K 28,28 K 28,35" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+48" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,84 K -14,84 K -14,0 K -28,0 K -28,84" />
+			<path data="R 14,84 K 28,84 K 28,0 K 14,0 K 14,84" />
+			<path data="R -14,63 K 14,63 K 14,49 K -14,49 K -14,63" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+49" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 28,77 K -28,77 K -28,84 K 28,84 K 28,77" />
+			<path data="R -28,7 K 28,7 K 28,0 K -28,0 K -28,7" />
+			<path data="R -7,7 K 7,7 K 7,77 K -7,77 K -7,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+4a" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,28 K -14,28 K -14,0 K -28,0 K -28,28" />
+			<path data="R -14,7 K 14,7 K 14,0 K -14,0 K -14,7" />
+			<path data="R 14,0 K 28,0 K 28,84 K 14,84 K 14,0" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+4b" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,84 K -14,84 K -14,0 K -28,0 K -28,84" />
+			<path data="R 14,0 K 28,0 K 28,28 K 14,28 K 14,0" />
+			<path data="R 7,28 K 28,28 K 28,35 K 7,35 K 7,28" />
+			<path data="R 14,42 K 21,42 K 21,35 K 14,35 K 14,42" />
+			<path data="R -14,49 K 14,49 K 14,35 K -14,35 K -14,49" />
+			<path data="R 7,63 K 21,63 K 21,49 K 7,49 K 7,63" />
+			<path data="R 0,56 K 7,56 K 7,49 K 0,49 K 0,56" />
+			<path data="R 14,84 K 28,84 K 28,63 K 14,63 K 14,84" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+4c" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,84 K -14,84 K -14,0 K -28,0 K -28,84" />
+			<path data="R -14,7 K 28,7 K 28,0 K -14,0 K -14,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+4d" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,0 K -14,0 K -14,84 K -28,84 K -28,0" />
+			<path data="R 14,84 K 28,84 K 28,0 K 14,0 K 14,84" />
+			<path data="R -14,84 K -7,84 K -7,63 K -14,63 K -14,84" />
+			<path data="R -7,77 K 7,77 K 7,56 K -7,56 K -7,77" />
+			<path data="R 7,63 K 14,63 K 14,84 K 7,84 K 7,63" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+4e" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -14,0 K -28,0 K -28,84 K -14,84 K -14,0" />
+			<path data="R 14,84 K 28,84 K 28,0 K 14,0 K 14,84" />
+			<path data="R -14,77 K -7,77 K -7,49 K -14,49 K -14,77" />
+			<path data="R 7,7 K 14,7 K 14,35 K 7,35 K 7,7" />
+			<path data="R -7,63 K 0,63 K 0,35 K -7,35 K -7,63" />
+			<path data="R 0,49 K 7,49 K 7,21 K 0,21 K 0,49" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+4f" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 28,77 K -28,77 K -28,84 K 28,84 K 28,77" />
+			<path data="R -28,7 K 28,7 K 28,0 K -28,0 K -28,7" />
+			<path data="R 14,7 K 28,7 K 28,77 K 14,77 K 14,7" />
+			<path data="R -28,77 K -14,77 K -14,7 K -28,7 K -28,77" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+50" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 28,77 K -28,77 K -28,84 K 28,84 K 28,77" />
+			<path data="R -28,77 K -14,77 K -14,0 K -28,0 K -28,77" />
+			<path data="R -14,63 K 28,63 K 28,56 K -14,56 K -14,63" />
+			<path data="R 14,77 K 28,77 K 28,63 K 14,63 K 14,77" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+51" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 21,77 K -28,77 K -28,84 K 21,84 K 21,77" />
+			<path data="R 28,7 K -28,7 K -28,0 K 28,0 K 28,7" />
+			<path data="R -28,7 K -14,7 K -14,77 K -28,77 K -28,7" />
+			<path data="R 7,77 K 21,77 K 21,7 K 7,7 K 7,77" />
+			<path data="R 0,14 K 7,14 K 7,7 K 0,7 K 0,14" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+52" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 28,77 K -28,77 K -28,84 K 28,84 K 28,77" />
+			<path data="R -28,77 K -14,77 K -14,0 K -28,0 K -28,77" />
+			<path data="R -14,63 K 28,63 K 28,56 K -14,56 K -14,63" />
+			<path data="R 14,77 K 28,77 K 28,63 K 14,63 K 14,77" />
+			<path data="R 28,49 K 14,49 K 14,0 K 28,0 K 28,49" />
+			<path data="R -14,49 K 14,49 K 14,56 K -14,56 K -14,49" />
+			<path data="R 7,42 K 14,42 K 14,49 K 7,49 K 7,42" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+53" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,84 K 28,84 K 28,77 K -28,77 K -28,84" />
+			<path data="R -28,77 K -14,77 K -14,63 K -28,63 K -28,77" />
+			<path data="R -28,63 K 28,63 K 28,49 K -28,49 K -28,63" />
+			<path data="R 14,49 K 28,49 K 28,0 K 14,0 K 14,49" />
+			<path data="R 14,7 K -28,7 K -28,0 K 14,0 K 14,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+54" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 28,84 K -28,84 K -28,77 K 28,77 K 28,84" />
+			<path data="R -7,0 K 7,0 K 7,77 K -7,77 K -7,0" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+55" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,84 K -14,84 K -14,0 K -28,0 K -28,84" />
+			<path data="R 14,0 K 28,0 K 28,84 K 14,84 K 14,0" />
+			<path data="R -14,7 K 14,7 K 14,0 K -14,0 K -14,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+56" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -7,14 K 7,14 K 7,0 K -7,0 K -7,14" />
+			<path data="R -14,21 K -7,21 K -7,7 K -14,7 K -14,21" />
+			<path data="R 7,21 K 14,21 K 14,7 K 7,7 K 7,21" />
+			<path data="R 14,21 K 21,21 K 21,14 K 14,14 K 14,21" />
+			<path data="R -21,21 K -14,21 K -14,14 K -21,14 K -21,21" />
+			<path data="R -28,84 K -14,84 K -14,21 K -28,21 K -28,84" />
+			<path data="R 14,21 K 28,21 K 28,84 K 14,84 K 14,21" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+57" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,84 K -14,84 K -14,0 K -28,0 K -28,84" />
+			<path data="R 14,0 K 28,0 K 28,84 K 14,84 K 14,0" />
+			<path data="R -7,7 K 7,7 K 7,35 K -7,35 K -7,7" />
+			<path data="R -14,0 K -7,0 K -7,21 K -14,21 K -14,0" />
+			<path data="R 7,21 K 14,21 K 14,0 K 7,0 K 7,21" />
+			<path data="R -28,249.28864 K -28,249.28864 K -28,249.28864 K -28,249.28864 K -28,249.28864" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+58" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,63 K -7,63 K -7,56 K -28,56 K -28,63" />
+			<path data="R 7,63 K 28,63 K 28,56 K 7,56 K 7,63" />
+			<path data="R 14,84 K 28,84 K 28,63 K 14,63 K 14,84" />
+			<path data="R -28,84 K -14,84 K -14,63 K -28,63 K -28,84" />
+			<path data="R -21,56 K 21,56 K 21,49 K -21,49 K -21,56" />
+			<path data="R -14,49 K 14,49 K 14,42 K -14,42 K -14,49" />
+			<path data="R -21,42 K 21,42 K 21,35 K -21,35 K -21,42" />
+			<path data="R -14,35 K -7,35 K -7,28 K -14,28 K -14,35" />
+			<path data="R 7,35 K 14,35 K 14,28 K 7,28 K 7,35" />
+			<path data="R 14,35 K 28,35 K 28,0 K 14,0 K 14,35" />
+			<path data="R -14,35 K -28,35 K -28,0 K -14,0 K -14,35" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+59" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -14,56 K -28,56 K -28,84 K -14,84 K -14,56" />
+			<path data="R 14,84 K 28,84 K 28,56 K 14,56 K 14,84" />
+			<path data="R -14,63 K -7,63 K -7,56 K -14,56 K -14,63" />
+			<path data="R 7,63 K 14,63 K 14,56 K 7,56 K 7,63" />
+			<path data="R -21,56 K 21,56 K 21,49 K -21,49 K -21,56" />
+			<path data="R -14,49 K 14,49 K 14,42 K -14,42 K -14,49" />
+			<path data="R -7,42 K 7,42 K 7,0 K -7,0 K -7,42" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+5a" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,84 K 28,84 K 28,77 K -28,77 K -28,84" />
+			<path data="R 14,77 K 28,77 K 28,63 K 14,63 K 14,77" />
+			<path data="R 28,7 K -28,7 K -28,0 K 28,0 K 28,7" />
+			<path data="R -28,21 K -14,21 K -14,7 K -28,7 K -28,21" />
+			<path data="R -28,28 K -7,28 K -7,21 K -28,21 K -28,28" />
+			<path data="R -21,35 K 0,35 K 0,28 K -21,28 K -21,35" />
+			<path data="R -14,42 K 7,42 K 7,35 K -14,35 K -14,42" />
+			<path data="R -7,49 K 14,49 K 14,42 K -7,42 K -7,49" />
+			<path data="R 0,56 K 21,56 K 21,49 K 0,49 K 0,56" />
+			<path data="R 7,63 K 28,63 K 28,56 K 7,56 K 7,63" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+5b" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K 0,56 K 0,49 K -28,49 K -28,56" />
+			<path data="R -28,49 K -14,49 K -14,7 K -28,7 K -28,49" />
+			<path data="R -28,7 K 0,7 K 0,0 K -28,0 K -28,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+5d" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 0,56 K 28,56 K 28,49 K 0,49 K 0,56" />
+			<path data="R 0,7 K 28,7 K 28,0 K 0,0 K 0,7" />
+			<path data="R 14,7 K 28,7 K 28,49 K 14,49 K 14,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+61" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 21,56 K -28,56 K -28,49 K 21,49 K 21,56" />
+			<path data="R 14,49 K 28,49 K 28,0 K 14,0 K 14,49" />
+			<path data="R -28,35 K 14,35 K 14,21 K -28,21 K -28,35" />
+			<path data="R -28,21 K -14,21 K -14,0 K -28,0 K -28,21" />
+			<path data="R -14,7 K 14,7 K 14,0 K -14,0 K -14,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+62" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,0 K -14,0 K -14,84 K -28,84 K -28,0" />
+			<path data="R -14,56 K 21,56 K 21,49 K -14,49 K -14,56" />
+			<path data="R 14,49 K 28,49 K 28,7 K 14,7 K 14,49" />
+			<path data="R -14,0 K 21,0 K 21,7 K -14,7 K -14,0" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+63" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,49 K -14,49 K -14,7 K -28,7 K -28,49" />
+			<path data="R -21,7 K 21,7 K 21,0 K -21,0 K -21,7" />
+			<path data="R 14,14 K 28,14 K 28,7 K 14,7 K 14,14" />
+			<path data="R -21,56 K 21,56 K 21,49 K -21,49 K -21,56" />
+			<path data="R 14,49 K 28,49 K 28,42 K 14,42 K 14,49" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+64" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 28,84 K 14,84 K 14,0 K 28,0 K 28,84" />
+			<path data="R -28,7 K -14,7 K -14,49 K -28,49 K -28,7" />
+			<path data="R -21,56 K 14,56 K 14,49 K -21,49 K -21,56" />
+			<path data="R -21,7 K 14,7 K 14,0 K -21,0 K -21,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+65" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 14,14 K 28,14 K 28,0 K 14,0 K 14,14" />
+			<path data="R -28,56 K -14,56 K -14,0 K -28,0 K -28,56" />
+			<path data="R -14,7 K 14,7 K 14,0 K -14,0 K -14,7" />
+			<path data="R -14,56 K 28,56 K 28,49 K -14,49 K -14,56" />
+			<path data="R 28,49 K 14,49 K 14,35 K 28,35 K 28,49" />
+			<path data="R -14,35 K 28,35 K 28,28 K -14,28 K -14,35" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+66" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 21,84 K 0,84 K 0,70 K 21,70 K 21,84" />
+			<path data="R -7,77 K 0,77 K 0,63 K -7,63 K -7,77" />
+			<path data="R 0,70 K 7,70 K 7,63 K 0,63 K 0,70" />
+			<path data="R -21,63 K 21,63 K 21,49 K -21,49 K -21,63" />
+			<path data="R -7,49 K 7,49 K 7,0 K -7,0 K -7,49" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+67" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -21,63 K 28,63 K 28,56 K -21,56 K -21,63" />
+			<path data="R -28,56 K -14,56 K -14,35 K -28,35 K -28,56" />
+			<path data="R -14,42 K 14,42 K 14,28 K -14,28 K -14,42" />
+			<path data="R -21,35 K -14,35 K -14,28 K -21,28 K -21,35" />
+			<path data="R -28,21 K -14,21 K -14,7 K -28,7 K -28,21" />
+			<path data="R -21,0 K 21,0 K 21,7 K -21,7 K -21,0" />
+			<path data="R 14,7 K 28,7 K 28,56 K 14,56 K 14,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+68" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,84 K -14,84 K -14,0 K -28,0 K -28,84" />
+			<path data="R -14,56 K 21,56 K 21,49 K -14,49 K -14,56" />
+			<path data="R 14,49 K 28,49 K 28,0 K 14,0 K 14,49" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+69" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -7,70 K 7,70 K 7,63 K -7,63 K -7,70" />
+			<path data="R -7,56 K 7,56 K 7,0 K -7,0 K -7,56" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+6a" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -14,14 K 7,14 K 7,0 K -14,0 K -14,14" />
+			<path data="R -7,14 K 7,14 K 7,56 K -7,56 K -7,14" />
+			<path data="R -7,70 K 7,70 K 7,63 K -7,63 K -7,70" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+6b" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,84 K -14,84 K -14,0 K -28,0 K -28,84" />
+			<path data="R 14,14 K 28,14 K 28,0 K 14,0 K 14,14" />
+			<path data="R 7,28 K 21,28 K 21,14 K 7,14 K 7,28" />
+			<path data="R -14,42 K 14,42 K 14,28 K -14,28 K -14,42" />
+			<path data="R 14,35 K 21,35 K 21,49 K 14,49 K 14,35" />
+			<path data="R 7,49 K 14,49 K 14,42 K 7,42 K 7,49" />
+			<path data="R 14,56 K 28,56 K 28,49 K 14,49 K 14,56" />
+			<path data="R 21,42 K 28,42 K 28,49 K 21,49 K 21,42" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+6c" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -7,84 K 7,84 K 7,7 K -7,7 K -7,84" />
+			<path data="R 0,7 K 14,7 K 14,0 K 0,0 K 0,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+6d" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K -14,56 K -14,0 K -28,0 K -28,56" />
+			<path data="R -14,56 K 21,56 K 21,49 K -14,49 K -14,56" />
+			<path data="R 14,49 K 28,49 K 28,0 K 14,0 K 14,49" />
+			<path data="R -7,14 K 7,14 K 7,49 K -7,49 K -7,14" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+6e" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K -14,56 K -14,0 K -28,0 K -28,56" />
+			<path data="R -14,56 K 21,56 K 21,49 K -14,49 K -14,56" />
+			<path data="R 14,49 K 28,49 K 28,0 K 14,0 K 14,49" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+6f" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,49 K -14,49 K -14,7 K -28,7 K -28,49" />
+			<path data="R -21,7 K 21,7 K 21,0 K -21,0 K -21,7" />
+			<path data="R 14,7 K 28,7 K 28,49 K 14,49 K 14,7" />
+			<path data="R -21,56 K 21,56 K 21,49 K -21,49 K -21,56" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+70" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K -14,56 K -14,0 K -28,0 K -28,56" />
+			<path data="R -14,56 K 21,56 K 21,49 K -14,49 K -14,56" />
+			<path data="R 14,28 K 28,28 K 28,49 K 14,49 K 14,28" />
+			<path data="R -14,28 K 21,28 K 21,21 K -14,21 K -14,28" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+71" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 21,0 K 7,0 K 7,56 K 21,56 K 21,0" />
+			<path data="R 14,49 K -21,49 K -21,56 K 14,56 K 14,49" />
+			<path data="R -14,49 K -28,49 K -28,28 K -14,28 K -14,49" />
+			<path data="R 14,21 K -21,21 K -21,28 K 14,28 K 14,21" />
+			<path data="R 21,14 K 28,14 K 28,0 K 21,0 K 21,14" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+72" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K -21,56 K -21,0 K -28,0 K -28,56" />
+			<path data="R 14,49 K 28,49 K 28,35 K 14,35 K 14,49" />
+			<path data="R -14,56 K 21,56 K 21,49 K -14,49 K -14,56" />
+			<path data="R -21,49 K -7,49 K -7,35 K -21,35 K -21,49" />
+			<path data="R -21,35 K -14,35 K -14,0 K -21,0 K -21,35" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+73" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,7 K 21,7 K 21,0 K -28,0 K -28,7" />
+			<path data="R 28,56 K -21,56 K -21,49 K 28,49 K 28,56" />
+			<path data="R -28,49 K -14,49 K -14,35 K -28,35 K -28,49" />
+			<path data="R -28,35 K 28,35 K 28,21 K -28,21 K -28,35" />
+			<path data="R 14,21 K 28,21 K 28,7 K 14,7 K 14,21" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+74" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -7,84 K 7,84 K 7,0 K -7,0 K -7,84" />
+			<path data="R -21,63 K -7,63 K -7,49 K -21,49 K -21,63" />
+			<path data="R 7,63 K 21,63 K 21,49 K 7,49 K 7,63" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+75" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,7 K -14,7 K -14,56 K -28,56 K -28,7" />
+			<path data="R 14,56 K 28,56 K 28,7 K 14,7 K 14,56" />
+			<path data="R -21,7 K 21,7 K 21,0 K -21,0 K -21,7" />
+			<path data="R -14,14 K -7,14 K -7,7 K -14,7 K -14,14" />
+			<path data="R 7,14 K 14,14 K 14,7 K 7,7 K 7,14" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+76" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -14,14 K 14,14 K 14,7 K -14,7 K -14,14" />
+			<path data="R -7,7 K 7,7 K 7,0 K -7,0 K -7,7" />
+			<path data="R 7,28 K 21,28 K 21,14 K 7,14 K 7,28" />
+			<path data="R -21,28 K -7,28 K -7,14 K -21,14 K -21,28" />
+			<path data="R -28,28 K -14,28 K -14,56 K -28,56 K -28,28" />
+			<path data="R 14,56 K 28,56 K 28,28 K 14,28 K 14,56" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+77" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K -14,56 K -14,0 K -28,0 K -28,56" />
+			<path data="R -14,7 K 21,7 K 21,0 K -14,0 K -14,7" />
+			<path data="R 14,7 K 28,7 K 28,56 K 14,56 K 14,7" />
+			<path data="R -7,42 K 7,42 K 7,7 K -7,7 K -7,42" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+78" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K -14,56 K -14,42 K -28,42 K -28,56" />
+			<path data="R -21,49 K -7,49 K -7,35 K -21,35 K -21,49" />
+			<path data="R 14,56 K 28,56 K 28,42 K 14,42 K 14,56" />
+			<path data="R 7,49 K 21,49 K 21,35 K 7,35 K 7,49" />
+			<path data="R -14,42 K 14,42 K 14,21 K -14,21 K -14,42" />
+			<path data="R -21,28 K -14,28 K -14,21 K -21,21 K -21,28" />
+			<path data="R -14,21 K -7,21 K -7,14 K -14,14 K -14,21" />
+			<path data="R 7,21 K 14,21 K 14,14 K 7,14 K 7,21" />
+			<path data="R 14,28 K 21,28 K 21,21 K 14,21 K 14,28" />
+			<path data="R 14,21 K 28,21 K 28,0 K 14,0 K 14,21" />
+			<path data="R -28,0 K -14,0 K -14,21 K -28,21 K -28,0" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+79" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,14 K -14,14 K -14,7 K -28,7 K -28,14" />
+			<path data="R -21,7 K 21,7 K 21,0 K -21,0 K -21,7" />
+			<path data="R 14,56 K 28,56 K 28,7 K 14,7 K 14,56" />
+			<path data="R -21,28 K 14,28 K 14,35 K -21,35 K -21,28" />
+			<path data="R -28,56 K -14,56 K -14,35 K -28,35 K -28,56" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+7a" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,56 K 28,56 K 28,49 K -28,49 K -28,56" />
+			<path data="R -28,7 K 28,7 K 28,0 K -28,0 K -28,7" />
+			<path data="R -28,21 K -14,21 K -14,7 K -28,7 K -28,21" />
+			<path data="R 14,49 K 28,49 K 28,35 K 14,35 K 14,49" />
+			<path data="R -14,21 K -7,21 K -7,14 K -14,14 K -14,21" />
+			<path data="R 7,42 K 14,42 K 14,35 K 7,35 K 7,42" />
+			<path data="R -21,28 K 7,28 K 7,21 K -21,21 K -21,28" />
+			<path data="R -7,35 K 21,35 K 21,28 K -7,28 K -7,35" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+7b" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,35 K -14,35 K -14,21 K -28,21 K -28,35" />
+			<path data="R -21,49 K -7,49 K -7,35 K -21,35 K -21,49" />
+			<path data="R -14,56 K 0,56 K 0,49 K -14,49 K -14,56" />
+			<path data="R -21,21 K -7,21 K -7,7 K -21,7 K -21,21" />
+			<path data="R -14,7 K 0,7 K 0,0 K -14,0 K -14,7" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+7d" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 28,35 K 14,35 K 14,21 K 28,21 K 28,35" />
+			<path data="R 7,21 K 21,21 K 21,7 K 7,7 K 7,21" />
+			<path data="R 0,7 K 14,7 K 14,0 K 0,0 K 0,7" />
+			<path data="R 7,49 K 21,49 K 21,35 K 7,35 K 7,49" />
+			<path data="R 0,56 K 14,56 K 14,49 K 0,49 K 0,56" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+7e" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -21,42 K -14,42 K -14,35 K -21,35 K -21,42" />
+			<path data="R -14,49 K -7,49 K -7,42 K -14,42 K -14,49" />
+			<path data="R -7,42 K 0,42 K 0,35 K -7,35 K -7,42" />
+			<path data="R 0,49 K 7,49 K 7,42 K 0,42 K 0,49" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2010" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -7,35 K 7,35 K 7,28 K -7,28 K -7,35" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2011" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -7,35 K 7,35 K 7,28 K -7,28 K -7,35" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2012" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2013" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -14,35 K 14,35 K 14,28 K -14,28 K -14,35" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2014" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -21,35 K 21,35 K 21,28 K -21,28 K -21,35" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2018" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -21,49 K -14,49 K -14,35 K -21,35 K -21,49" />
+			<path data="R -14,56 K -7,56 K -7,49 K -14,49 K -14,56" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2019" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 14,56 K 21,56 K 21,42 K 14,42 K 14,56" />
+			<path data="R 7,42 K 14,42 K 14,35 K 7,35 K 7,42" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+201c" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -21,49 K -14,49 K -14,35 K -21,35 K -21,49" />
+			<path data="R -14,56 K -7,56 K -7,49 K -14,49 K -14,56" />
+			<path data="R -7,49 K 0,49 K 0,35 K -7,35 K -7,49" />
+			<path data="R 0,56 K 7,56 K 7,49 K 0,49 K 0,56" />
+			<path data="R 28,119 K 35,119 K 35,119 K 28,119 K 28,119" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+201d" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R 14,56 K 21,56 K 21,42 K 14,42 K 14,56" />
+			<path data="R 7,42 K 14,42 K 14,35 K 7,35 K 7,42" />
+			<path data="R 0,56 K 7,56 K 7,42 K 0,42 K 0,56" />
+			<path data="R -7,42 K 0,42 K 0,35 K -7,35 K -7,42" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2026" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="42" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="R -28,14 K -14,14 K -14,0 K -28,0 K -28,14" />
+			<path data="R -7,14 K 7,14 K 7,0 K -7,0 K -7,14" />
+			<path data="R 14,14 K 28,14 K 28,0 K 14,0 K 14,14" />
+		</layer>
+	</glyph>
+</collection>
+
+</font>
