@@ -172,6 +172,16 @@ It bears:
 This is an enhanced version of OPZ, so TX81Z patches are fully compatible.
 There is nothing much different from OPZ here, other than having 24 voices.
 
+FM Waveforms:
+- Sine
+- Triangle (Sine^2)
+- Half Sine
+- Half Triangle
+- Even Sine
+- Even Triangle
+- Even Camel Sine
+- Evel Camel Triangle
+
 ## SS16D78-12
 The heart of PCM Synthesis of SS-16.
 

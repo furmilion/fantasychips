@@ -1,0 +1,10 @@
+ABCDEFGHIJKLMNOP
+QRSTUVWXYZ 	 Ñ ẞ
+abcdefghijklmnop
+qrstuvwxyz   ñ ß
+                
+1234567890,.:…;"
+$%/\‘“’”§|&¿¡¥:_
+'!?()[]{}+-= #~*
+^@<>‐–—         
+                
