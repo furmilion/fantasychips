@@ -173,14 +173,24 @@ This is an enhanced version of OPZ, so TX81Z patches are fully compatible.
 There is nothing much different from OPZ here, other than having 24 voices.
 
 FM Waveforms:
-- Sine
-- Triangle (Sine^2)
-- Half Sine
-- Half Triangle
-- Even Sine
-- Even Triangle
-- Even Camel Sine
-- Evel Camel Triangle
+- 1. Sine
+- 2. Triangle (Sine^2)
+- 3. Half Sine
+- 4. Half Triangle
+- 5. Even Sine
+- 6. Even Triangle
+- 7. Even Camel Sine
+- 8. Evel Camel Triangle
+- 9. Abs Sine
+- 10. Abs Triangle
+- 11. Quarter Abs Sine  (/_/)
+- 12. Quarter Abs Triangle (/_/)
+- 13. Quarter Sine (/_\\_)
+- 14. Quarter Triangle (/_\\_)
+- 15. Square
+- 16. Accumulator (aka Sawtooth, aka Derived Sawtooth)
+- 17. Abs Accumulator
+- 18..32. tbd
 
 ## SS16D78-12
 The heart of PCM Synthesis of SS-16.
@@ -192,6 +202,7 @@ Bears:
 - Envelope parts have range of 256 steps
 - Better hardware LFO, with 256 steps of range, frequency and depth.
 - 4 PCM formats: 8-bit, 16-bit, IMA ADPCM and log2 8-bit
+- 16 MB sample RAM addressable.
 
 Enhanced version of Sega MultiPCM, having 32 voices.
 LFO:
