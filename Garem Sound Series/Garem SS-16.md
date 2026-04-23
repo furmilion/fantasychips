@@ -66,11 +66,11 @@ This is how an operator editing pane looks:
 ```
 +--------------------------------------------+
 |  [A:31 D:00 S:00 D:00 R:08]    OP Matrix   |
-| Atk [O]  [|]   [|]F   [█| ]    [ 1   2 ]   |
-| Dec [O]   | T   | B   [█|█]    [ |   | ]   |
-| Sus [O]   | L   | C   [█|█]    [ 3   4 ]   |
-| De2 [O]   |     | K   [█|█]    [ +>O<+ ]   |
-| Rel [O]   |     |     [█|█]  Algorithm [ ] |
+| Atk [O]  [|]   [|]F   [#| ]    [ 1   2 ]   |
+| Dec [O]   | T   | B   [#|#]    [ |   | ]   |
+| Sus [O]   | L   | C   [#|#]    [ 3   4 ]   |
+| De2 [O]   |     | K   [#|#]    [ +>O<+ ]   |
+| Rel [O]   |     |     [#|#]  Algorithm [ ] |
 | OPx [P] [003]  [5]     V U                 |
 +--------------------------------------------+
 ```
@@ -89,13 +89,13 @@ This is how cartridge loader and patch screen look:
 ```
 +----------------------------------+
 | [001-001. SPACE-VOYAGER ] [SAVE] |
-| [-] [+] [░]  [GET] [SEND]        |
+| [-] [+] [@]  [GET] [SEND]        |
 | [||||||||||||||||] CARD SLOT     |
 | [MEM:023%|OK            ] STATUS |
 +----------------------------------+
 ```
 Figures:
-- `[-]` `[+]` `[░]` are Patch Subtract, Patch Increase and
+- `[-]` `[+]` `[#]` are Patch Subtract, Patch Increase and
 Random Patch buttons, are used to change the current patch.
 - `[GET]` `[SEND]` are Patch Get and Patch Send options, get or
 send the current patch to/from connected PC or another SS-16 synth.
@@ -106,18 +106,18 @@ This is how PCM configurtion screen looks:
 ```
 +--------------------------------------------------+
 |  [A:CF D:00 S:00 D:00 R:86]                      |
-| Atk [O]  [|]L  [ | ]  PCM SELECT [-] [+] [░]     |
+| Atk [O]  [|]L  [ | ]  PCM SELECT [-] [+] [@]     |
 | Dec [O]   | E  [ | ]  [000: NONE               ] |
-| Sus [O]   | V  [ |█]  SWITCH PCM BANK [ ]        |
-| De2 [O]   | E  [█|█]  BREAKPOINT [O]  PAN [O]    |
-| Rel [O]   | L  [█|█]  POINTLO [O]  POINT HI [O]  |
+| Sus [O]   | V  [ |#]  SWITCH PCM BANK [ ]        |
+| De2 [O]   | E  [#|#]  BREAKPOINT [O]  PAN [O]    |
+| Rel [O]   | L  [#|#]  POINTLO [O]  POINT HI [O]  |
 |   PCM   [255]   V U   KEYSHFT [O]  FINETUNE [O]  |
 +--------------------------------------------------+
 ```
 Figures:
 - `[O]` is still a knob
 - `[|]` is still a vertical slider
-- `[-]` `[+]` `[░]` are PCM Increase, PCM Decrease and PCM Random
+- `[-]` `[+]` `[@]` are PCM Increase, PCM Decrease and PCM Random
 buttons. They select next, previous and random PCM sound respectively.
 - `BREAKPOINT` is a knob selecting one of the 16 breakpoints, `0..15`
 - `POINTLO` and `POINT HI` are knobs telling the low and high notes of
