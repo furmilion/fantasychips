@@ -172,6 +172,7 @@ It bears:
 This is an enhanced version of OPZ, so TX81Z patches are fully compatible.
 There is nothing much different from OPZ here, other than having 24 voices.
 
+!! ill get a graph sometime soon
 FM Waveforms:
 - 1. Sine
 - 2. Triangle (Sine^2)
